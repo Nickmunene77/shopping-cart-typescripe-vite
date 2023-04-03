@@ -1,26 +1,68 @@
 [
   {
     "id": 1,
-    "name": "Book",
+    "name": "Washing Mashine",
     "price": 10.99,
-    "imgUrl": "/imgs/book.jpg"
+    "imgUrl": "/imgs/washing.jpg"
   },
   {
     "id": 2,
-    "name": "Computer",
+    "name": "Vacuum Cleaner",
     "price": 1199,
-    "imgUrl": "/imgs/computer.jpg"
+    "imgUrl": "/imgs/vacuum.jpg"
   },
   {
     "id": 3,
-    "name": "Banana",
+    "name": "Watch",
     "price": 1.05,
-    "imgUrl": "/imgs/banana.jpg"
+    "imgUrl": "/imgs/watch_2.webp"
   },
   {
     "id": 4,
-    "name": "Car",
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "/imgs/rice.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Television",
+    "price": 10.99,
+    "imgUrl": "/imgs/tv.jpg"
+  },
+  {
+    "id": 6,
+    "name": "EarPhones",
+    "price": 10.99,
+    "imgUrl": "/imgs/earphones_b_3.webp"
+  },
+  {
+    "id": 7,
+    "name": "Sweater",
+    "price": 10.99,
+    "imgUrl": "/imgs/Shopping.webp"
+  },
+  {
+    "id": 8,
+    "name": "Speaker",
+    "price": 10.99,
+    "imgUrl": "/imgs/speaker3.webp"
+  },
+  {
+    "id": 9,
+    "name": "Saw",
+    "price": 10.99,
+    "imgUrl": "/imgs/saw.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Rice Cooker",
+    "price": 10.99,
+    "imgUrl": "/imgs/rice.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Official Trouser",
     "price": 14000,
-    "imgUrl": "/imgs/car.jpg"
+    "imgUrl": "/imgs/new.jpg"
   }
 ]
